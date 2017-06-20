@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774802456903",
+    "firebase_url": "https://registeratioin.firebaseio.com",
+    "project_id": "registeratioin",
+    "storage_bucket": "registeratioin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774802456903:android:96bccc6e9bbe2865",
+        "android_client_info": {
+          "package_name": "doston2509.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774802456903-n42m7lgbktrmh0ltdeqnqo107qs9mitu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXl87q2K14Nn4c34lm1AT2Ukr5CVdVaeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
